@@ -28,3 +28,12 @@ If you'd like to explore my work, check out my pinned repositories below.
 - Database Modeling
 - Authentication and Security
 - Deployment with Vercel and Render
+
+my tech stacks are :
+html
+css
+js 
+react 
+python
+flask
+postgress database
