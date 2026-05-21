@@ -39,3 +39,5 @@ BACKEND
 -python
 -flask
 -postgress database
+
+currently focusing on backend 
