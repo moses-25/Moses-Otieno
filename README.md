@@ -30,10 +30,12 @@ If you'd like to explore my work, check out my pinned repositories below.
 - Deployment with Vercel and Render
 
 my tech stacks are :
-html
-css
-js 
-react 
-python
-flask
-postgress database
+FRONTEND
+-html
+-css
+-js 
+-react 
+BACKEND
+-python
+-flask
+-postgress database
